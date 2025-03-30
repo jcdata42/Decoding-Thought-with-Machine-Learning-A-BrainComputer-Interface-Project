@@ -1,4 +1,4 @@
-# Decoding-Thought-with-Machine-Learning-A-BrainComputer-Interface-Project
+# Decoding Thought with Machine Learning: Brain-Computer Interface
 
 This project explores how Machine Learning can be used to decode human thought patterns through EEG signals, forming the basis of a Brain-Computer Interface (BCI). By working with real EEG data collected during motor imagery experiments, we apply signal processing and classification techniques to determine what action a person is thinking about — such as moving their hand or foot — within a given timeframe.
 
